@@ -1,0 +1,16 @@
+# https://playclassic.games/games/racing-driving-snes-games-online/play-super-mario-kart-online/play
+1,mouth,1,enter,0,select
+1,left leg,0,z,0,accelerate
+1,left leg,1,z,0,accelerate
+1,left leg,2,x,0,throw
+1,right leg,0,z,0,accelerate
+1,right leg,1,z,0,accelerate
+1,right leg,2,x,0,throw
+1,left arm,225,left,0,left
+1,left arm,180,left,0,left
+1,left arm,135,up,0,up
+1,right arm,-45,right,0,right
+1,right arm,0,right,0,right
+1,right arm,45,down,0,down
+1,jump,1,q,0,jump
+1,squat,1,p,0,pause

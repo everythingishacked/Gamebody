@@ -1,0 +1,19 @@
+# https://playclassic.games/games/puzzle-solving-dos-games-online/play-pac-man-online/play
+1,left arm,225,left,0,left
+1,right arm,-45,right,0,right
+1,left leg,0,up,0,up
+1,left leg,1,up,0,up
+1,right leg,0,down,0,down
+1,right leg,1,down,0,down
+1,mouth,1,space,0,pause or select
+1,left leg,2,f1,0,switch 1/2 player
+1,right leg,2,f2,0,switch difficulty
+2,left arm,225,left,0,left
+2,right arm,-45,right,0,right
+2,left leg,0,up,0,up
+2,left leg,1,up,0,up
+2,right leg,0,down,0,down
+2,right leg,1,down,0,down
+2,mouth,1,space,0,pause or select
+2,left leg,2,f1,0,switch 1/2 player
+2,right leg,2,f2,0,switch difficulty

@@ -1,0 +1,29 @@
+# https://arcadespot.com/game/super-smash-bros
+1,mouth,1,enter,0,start
+1,jump,1,w,0,jump
+1,squat,1,s,0,duck
+1,left arm,225,a,0,left
+1,right arm,-45,d,0,right
+1,right arm,0,b,0,b
+1,left arm,180,a,0,a
+1,left leg,0,c,0,c up
+1,left leg,1,v,0,c down
+1,right leg,0,b,0,c left
+1,right leg,1,n,0,c right
+1,left leg,2,l,0,l
+1,right leg,2,r,0,r
+1,crossed arms,1,z,0,z
+2,mouth,1,1,0,start
+2,jump,1,6,0,jump
+2,squat,1,7,0,duck
+2,left arm,225,8,0,left
+2,right arm,-45,9,0,right
+2,right arm,0,0,0,b
+2,left arm,180,g,0,a
+2,left leg,0,h,0,c up
+2,left leg,1,p,0,c down
+2,right leg,0,shift,0,c left
+2,right leg,1,control,0,c right
+2,left leg,2,alt,0,l
+2,right leg,2,m,0,r
+2,crossed arms,1,k,0,z

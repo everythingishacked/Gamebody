@@ -1,0 +1,15 @@
+# https://playclassic.games/games/action-snes-games-online/play-star-fox-online/play
+1,left arm,225,left,0,left
+1,right arm,-45,right,0,right
+1,left arm,180,up,0,up
+1,right arm,0,down,0,down
+1,left arm,135,q,0,roll left
+1,right arm,45,w,0,roll right
+1,left leg,0,s,0,boost
+1,left leg,1,s,0,boost
+1,right leg,0,z,0,break
+1,right leg,1,z,0,break
+1,left leg,2,s,0,blaster
+1,right leg,2,a,0,nova bomb
+1,crossed arms,1,p,0,pause
+1,mouth,1,enter,0,select

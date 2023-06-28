@@ -1,0 +1,16 @@
+# https://playclassic.games/games/first-person-shooter-dos-games-online/play-doom-online/play
+1,left arm,225,left,0,left
+1,right arm,-45,right,0,right
+1,left arm,180,up,0,forward
+1,right arm,0,down,0,backward
+1,left arm,135,<,0,strafe left
+1,right arm,45,>,0,strafe right
+1,mouth,1,control,0,fire
+1,left leg,0,1,0,switch to hand 1
+1,right leg,0,2,0,switch to gun 2
+1,left leg,1,3,0,switch to gun 3
+1,right leg,1,4,0,switch to gun 4
+1,left leg,2,5,0,switch to gun 5
+1,right leg,2,6,0,switch to gun 6
+1,crossed arms,1,enter,0,select
+1,squat,1,escape,0,toggle menu

@@ -1,0 +1,22 @@
+https://freepong.org - player 1 on right
+1,left arm,225,up,0,up
+1,right arm,-45,down,0,down
+1,mouth,1,p,0,pause
+1,crossed arms,1,escape,0,quit/menu
+1,right arm,90,r,0,play again
+1,left leg,0,1,0,select 1 player
+1,left leg,0,1,0,select 1 player
+1,left leg,2,k,0,select keyboard input
+1,right leg,0,s,0,select slow
+1,right leg,1,m,0,select medium
+1,right leg,2,f,0,select fast
+2,left arm,225,s,0,up
+2,right arm,-45,x,0,down
+2,mouth,1,p,0,pause
+2,crossed arms,1,escape,0,quit/menu
+2,right arm,90,r,0,play again
+2,left leg,0,1,0,select 1 player
+2,left leg,1,2,0,select 2 players
+2,right leg,0,s,0,select slow
+2,right leg,1,m,0,select medium
+2,right leg,2,f,0,select fast

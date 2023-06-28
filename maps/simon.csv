@@ -1,0 +1,7 @@
+# https://freesimon.org
+1,left arm,135,r,0,red
+1,left arm,225,b,0,blue
+1,right arm,-45,y,0,yellow
+1,right arm,45,g,0,green
+1,mouth,1,f,0,toggle full screen
+1,crossed arms,1,q,0,quit

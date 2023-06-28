@@ -1,0 +1,23 @@
+# default map; add other custom CSVs here
+1,jump,1,w,0,jump
+1,left arm,135,d,0,right
+1,squat,1,s,0,duck
+1,left arm,225,a,0,left
+1,right arm,45,t,1,high punch
+1,right arm,-45,v,1,low punch
+1,crossed arms,1,g,1,block
+1,right leg,1,y,1,high kick
+1,right leg,0,b,1,low kick
+1,right leg,2,h right,0,run right
+1,left leg,2,h left,0,run left
+2,jump,1,up,0,jump
+2,right arm,-45,right,0,right
+2,squat,1,down,0,duck
+2,right arm,45,left,0,left
+2,left arm,135,u,1,high punch
+2,left arm,225,i,1,low punch
+2,crossed arms,1,o,1,block
+2,left leg,1,j,1,high kick
+2,left leg,0,l,1,low kick
+2,right leg,2,m right,0,run right
+2,left leg,2,m left,0,run left

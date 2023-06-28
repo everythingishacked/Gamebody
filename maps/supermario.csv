@@ -1,0 +1,11 @@
+# https://playclassic.games/games/jump-and-run-snes-games-online/play-super-mario-world-online/play
+1,left arm,225,left,0,left
+1,right arm,-45,right,0,right
+1,left arm,180,up,0,up
+1,right arm,0,down,0,down
+1,jump,1,z,0,jump or select
+1,squat,1,x,0,jump spin
+1,mouth,1,p,0,pause
+1,left leg,0,a,0,hold item
+1,right leg,0,a,0,hold item or run with left/right
+1,crossed arms,1,enter,0,select
